@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./CrossC2_logo.png" width="100" alt="Logo" />
+<img src="./cat.jpg" width="100" alt="Logo" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=560&lines=%2F%5C_%2F%5C+wodefox+%2F%5C_%2F%5C" alt="Typing SVG" />
 
