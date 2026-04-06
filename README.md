@@ -1,60 +1,35 @@
 <div align="center">
 
-<img src="./CrossC2_logo.png" width="120" alt="Logo" />
+<img src="./CrossC2_logo.png" width="100" alt="Logo" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%90%B1+Hello%2C+I'm+wodefox+%F0%9F%90%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=560&lines=%2F%5C_%2F%5C+wodefox+%2F%5C_%2F%5C" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=500&color=9370DB&center=true&vCenter=true&repeat=true&width=600&lines=Network+Security+Engineer;Artificial+Life+Researcher;Red+Team+Operator;CCIT+Student" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-```
-    /\_/\  
-   ( o.o ) 
-    > ^ <
-   /|   |\
-  (_|   |_)   Meow~ Welcome to my cyber space!
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=500&color=9370DB&center=true&vCenter=true&repeat=true&width=560&lines=Network+Security+Engineer+%7C+Red+Team+Operator;Artificial+Life+%26+Brain-like+Architecture+Research;CCIT+%7C+Decentralized+FteAPT+Intelligence+Center" alt="Typing SVG" />
 
 </div>
 
 ---
-
-<div align="center">
-
-### 🐱 About Meow
-
-</div>
 
 ```yaml
-name: wodefox
-species: Cyber Cat 🤖🐱
-location: CCIT
-affiliation: Decentralized FteAPT Intelligence Center 🌐
-role:
-  - Network Security Engineer
-  - Artificial Life Researcher
-team: Red Team 🔴
-interests:
-  - Penetration Testing
-  - CTF Challenges
-  - Liquid Neural Networks
-  - Neural Plasticity
-  - Brain-like Architecture
-  - Artificial Life Simulation
-email: wodefox@yeah.net
-status: "Hacking the planet, one meow at a time"
+whoami:
+  handle:      wodefox
+  location:    CCIT
+  affiliation: Decentralized FteAPT Intelligence Center
+  roles:
+    - Network Security Engineer
+    - Red Team Operator
+    - Artificial Life Researcher
+  focus:
+    security:  [ Penetration Testing, Implant Development, APT Simulation ]
+    research:  [ Liquid Neural Networks, Neural Plasticity, Brain-like Architecture ]
+  contact:     wodefox@yeah.net
 ```
 
 ---
 
 <div align="center">
 
-### 🎭 Red Team Arsenal
+### Red Team Arsenal
 
 </div>
 
@@ -62,29 +37,29 @@ status: "Hacking the planet, one meow at a time"
 <tr>
 <td width="50%" valign="top">
 
-#### 🌐 Web 渗透测试
+#### 🌐 Web Penetration Testing
 
 ```python
 web_pentest = {
-    "recon": ["Nmap", "Shodan", "Subfinder"],
-    "scanning": ["Nuclei", "Nikto", "WhatWeb"],
+    "recon":        ["Nmap", "Shodan", "Subfinder"],
+    "scanning":     ["Nuclei", "Nikto", "WhatWeb"],
     "exploitation": ["Burp Suite", "SQLMap", "XSStrike"],
     "post_exploit": ["Weevely", "LaZagne", "Mimikatz"],
-    "tools": ["HackBrowserData", "SharpCollection"]
+    "collection":   ["HackBrowserData", "SharpCollection"]
 }
 ```
 
 </td>
 <td width="50%" valign="top">
 
-#### 🕵️ APT 情报分析
+#### 🕵️ Threat Intelligence & OSINT
 
 ```python
 apt_intel = {
-    "threat_intel": ["MITRE ATT&CK", "VirusTotal", "AnyRun"],
-    "osint": ["Maltego", "SpiderFoot", "TheHarvester"],
-    "malware_analysis": ["IDA Pro", "Ghidra", "x64dbg"],
-    "tracking": ["APT Groups", "TTP Mapping", "IOC Analysis"]
+    "threat_intel":    ["MITRE ATT&CK", "VirusTotal", "AnyRun"],
+    "osint":           ["Maltego", "SpiderFoot", "TheHarvester"],
+    "malware_analysis":["IDA Pro", "Ghidra", "x64dbg"],
+    "methodology":     ["TTP Mapping", "IOC Analysis", "Campaign Tracking"]
 }
 ```
 
@@ -93,36 +68,36 @@ apt_intel = {
 <tr>
 <td width="50%" valign="top">
 
-#### 💀 恶意程序开发研究
+#### 💀 Implant Development
 
 ```python
-malware_dev = {
-    "languages": ["C/C++", "Golang", "Rust", "Assembly"],
+implant_dev = {
+    "languages":  ["C/C++", "Golang", "Rust", "Assembly"],
     "techniques": [
         "Shellcode Development",
         "Process Injection",
-        "Evasion Techniques",
-        "Anti-Analysis"
+        "Evasion & Anti-Analysis",
+        "EDR Bypass"
     ],
-    "frameworks": ["Cobalt Strike", "Metasploit", "Custom Implants"]
+    "frameworks": ["Cobalt Strike", "Metasploit", "Custom C2"]
 }
 ```
 
 </td>
 <td width="50%" valign="top">
 
-#### 🧸 网络安全小玩具开发
+#### 🛠️ Tooling & Research
 
 ```python
-security_toys = {
-    "tools": [
-        "Custom Scanners",
-        "PoC Exploits",
-        "CTF Utilities",
-        "Automation Scripts"
+tooling = {
+    "custom_tools": [
+        "C2 Frameworks",
+        "Recon Automation",
+        "PoC Development",
+        "CTF Utilities"
     ],
-    "languages": ["Python", "Go", "PowerShell", "Bash"],
-    "purpose": "Learning & Research Only 🎓"
+    "languages":  ["Python", "Go", "PowerShell", "Bash"],
+    "philosophy": "Build what doesn't exist yet."
 }
 ```
 
@@ -139,26 +114,14 @@ security_toys = {
 </div>
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                    🧬 LIFE SIMULATION v2.0                      │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│   ███████╗██╗   ██╗███████╗████████╗ ██████╗ ██████╗ ██╗   ██╗  │
-│   ██╔════╝██║   ██║██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗╚██╗ ██╔╝  │
-│   █████╗  ██║   ██║███████╗   ██║   ██║   ██║██████╔╝ ╚████╔╝   │
-│   ██╔══╝  ██║   ██║╚════██║   ██║   ██║   ██║██╔══██╗  ╚██╔╝    │
-│   ██║     ╚██████╔╝███████║   ██║   ╚██████╔╝██║  ██║   ██║     │
-│   ╚═╝      ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝     │
-│                                                                 │
-│   Research Areas:                                               │
-│   [████████████████████░░░░] Liquid Neural Networks   85%      │
-│   [███████████████████░░░░░] Neural Plasticity        80%      │
-│   [██████████████████░░░░░░] Brain-like Architecture  75%      │
-│   [█████████████████░░░░░░░] Genetic Algorithms       70%      │
-│   [████████████████░░░░░░░░] Cellular Automata        65%      │
-│   [███████████████░░░░░░░░░] Swarm Intelligence       60%      │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+  Research Focus                              Interest Level
+  ──────────────────────────────────────────────────────────
+  Liquid Neural Networks      [████████████████████░░░░]  84%
+  Neural Plasticity           [███████████████████░░░░░]  80%
+  Brain-like Architecture     [██████████████████░░░░░░]  76%
+  Genetic Algorithms          [█████████████████░░░░░░░]  70%
+  Cellular Automata           [████████████████░░░░░░░░]  65%
+  Swarm Intelligence          [███████████████░░░░░░░░░]  60%
 ```
 
 <table>
@@ -169,16 +132,16 @@ security_toys = {
 
 ```python
 liquid_nn = {
-    "concept": "Time-continuous neural networks",
+    "concept": "Time-continuous ODE networks",
     "features": [
         "Adaptive computation",
         "Dynamic topology",
         "Real-time learning"
     ],
     "applications": [
-        "Autonomous systems",
-        "Time-series prediction",
-        "Robotics control"
+        "Autonomous control",
+        "Time-series modeling",
+        "Robotics"
     ]
 }
 ```
@@ -190,9 +153,9 @@ liquid_nn = {
 
 ```python
 plasticity = {
-    "types": [
+    "learning_rules": [
         "Hebbian learning",
-        "Spike-timing dependent",
+        "STDP",
         "Structural plasticity"
     ],
     "mechanisms": [
@@ -232,141 +195,7 @@ brain_arch = {
 
 <div align="center">
 
-### 🐾 Cyber Cat Gallery
-
-</div>
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-#### 🎮 像素猫
-
-```
-    /\_/\
-   ( o.o )
-    > ^ <
-   /|   |\
-  (_|   |_)
-```
-
-*Classic Terminal Cat*
-
-</td>
-<td width="25%" align="center">
-
-#### 🌸 卡通猫
-
-```
-   /\_/\
-  ( ^.^ )
-   \ " /
-  /|   |\
- (_|   |_)
-```
-
-*Kawaii Mode*
-
-</td>
-<td width="25%" align="center">
-
-#### ⚡ 赛博猫
-
-```
-   /\_/\
-  ( O.O )
-   [___]
-  /|:::|\
- (_|:::|_)
-```
-
-*Cyberpunk Edition*
-
-</td>
-<td width="25%" align="center">
-
-#### 🕶️ 黑客猫
-
-```
-   /\_/\
-  ( -.- )
-   >===<
-  /|XXX|\
- (_|XXX|_)
-```
-
-*Red Team Operator*
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-#### 🐱 Cat Life Cycle
-
-```
-    ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐
-    │  (o.o)  │ ──▶ │  (^_^)  │ ──▶ │  (O.O)  │ ──▶ │  (-.-)  │
-    │  Baby   │     │  Teen   │     │  Adult  │     │  Hacker │
-    └─────────┘     └─────────┘     └─────────┘     └─────────┘
-         │                                                   │
-         │    /\_/\    /\_/\    /\_/\    /\_/\              │
-         │   (^.^)   (^.^)   (^.^)   (^.^)                 │
-         │                                                   │
-         └───────────────────────────────────────────────────┘
-                           Evolution Complete!
-```
-
-</div>
-
-<div align="center">
-
-#### 🎭 Cat Emotions
-
-```
-  Happy      Sleepy     Curious    Thinking    Hacking
-  /\_/\      /\_/\      /\_/\      /\_/\       /\_/\
- ( ^.^ )    ( -.- )    ( O.O )    ( o.o )     ( O.O )
-  > ^ <      > _ <      > o <      > . <       >===<
- "Meow~"    "Zzz..."   "Hmm?"     "..."       "pwned!"
-```
-
-</div>
-
-<div align="center">
-
-#### 🌟 Special Cats
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│   Space Cat              Wizard Cat            Ninja Cat               │
-│   /\_/\                  /\_/\                 /\_/\                   │
-│  ( O.O )   ☆            ( *.* )  ✨           ( -_- )  ⚔️              │
-│   > ^ <                  > * <                 > _ <                   │
-│  /|   |\                /| ~ |\               /|   |\                  │
-│ (_|   |_)              (_|   |_)             (_|   |_)                 │
-│  "To infinity!"         "Meowgic!"            "Stealth mode"           │
-│                                                                        │
-│   DJ Cat                Gamer Cat            Scientist Cat            │
-│   /\_/\                  /\_/\                 /\_/\                   │
-│  ( ^.^ )  🎧            ( >.< )  🎮           ( O.O )  🔬             │
-│   > w <                  > < <                 > o <                   │
-│  /|♪ ♫|\                /|   |\               /| E = mc² |\            │
-│ (_|   |_)              (_|   |_)             (_|   |_)                 │
-│  "Drop the beat!"       "GG!"                 "Eureka!"                │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 Hacker Stats
+### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=wodefox&show_icons=true&theme=omni&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=9370DB&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
@@ -380,119 +209,25 @@ brain_arch = {
 
 <div align="center">
 
-### 🎯 CTF Trophy Room
-
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│    🏆 HackTheBox    ████████████░░░░  Rank: Hacker       │
-│    🎖️ TryHackMe     ██████████████░░  Rank: Expert       │
-│    ⚔️ CTFtime       ████████░░░░░░░░  Top 10%            │
-│                                                          │
-│    Latest Flags:                                         │
-│    🚩 [Pwn]   Buffer Overflow Challenge                  │
-│    🚩 [Web]   SQL Injection Master                       │
-│    🚩 [Crypto] RSA Attack Vector                         │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Terminal Fun
-
-```bash
-$ cat /etc/motd
-
-    ╭─────────────────────────────────────╮
-    │                                     │
-    │   "In a world full of bugs,         │
-    │    be the one who finds them."      │
-    │                                     │
-    │           - Every Red Teamer        │
-    │                                     │
-    ╰─────────────────────────────────────╯
-
-$ echo "Artificial Life is not just code, it's poetry in motion"
-> Artificial Life is not just code, it's poetry in motion
-
-$ sudo nmap -sV -sC life
-> Starting Nmap scan...
-> PORT     STATE SERVICE
-> 22/tcp   open  consciousness
-> 80/tcp   open  learning
-> 443/tcp  open  evolution
-> 1337/tcp open  hacking
-
-$ python liquid_nn.py --mode=think
-> Initializing liquid neural network...
-> Synapses forming... ████████████████████ 100%
-> Neural plasticity: ENABLED
-> Brain-like architecture: ACTIVE
-> Status: Ready to learn and adapt 🧠
-
-$ exit
-> Meow~ See you next time! 🐱
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 📡 Contact Meow
+### 📡 Contact
 
 <a href="mailto:wodefox@yeah.net">
 <img src="https://img.shields.io/badge/Email-wodefox%40yeah.net-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/wodefox">
 <img src="https://img.shields.io/badge/GitHub-wodefox-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-### 🎮 Now Playing
+<br/><br/>
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│  ♪ ♫ ♬                                                      │
-│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    │
-│                                                              │
-│  🎵 "Every bug is a puzzle,                                 │
-│      every system is a challenge,                           │
-│      every breach is a lesson learned."                     │
-│                                                              │
-│  Artist: Red Team Symphony                                  │
-│  Album: Hack The Planet                                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+   /\_/\   "In a world full of bugs, be the one who finds them."
+  ( -.- )
+   > ^ <
 ```
-
-</div>
-
----
-
-<div align="center">
 
 <img src="https://count.getloli.com/get/@wodefox?theme=rule34" alt="Visitor Count" />
-
-```
-    /\_/\    Thanks for visiting!
-   ( ^.^ )   
-    > ^ <    ⭐ Star my repos if you find something cool!
-   /|   |\   
-  (_|   |_)  > exit 0
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,9370DB&height=80&section=footer" />
 
