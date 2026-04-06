@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/gloxec/CrossC2/cs4.1/media/16292585578533/CrossC2_logo.png" width="120" alt="Logo" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%90%B1+Hello%2C+I'm+wodefox+%F0%9F%90%B1" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=500&color=9370DB&center=true&vCenter=true&repeat=true&width=600&lines=Network+Security+Engineer;Artificial+Life+Researcher;Red+Team+Operator;CCIT+Student" alt="Typing SVG" />
@@ -32,6 +34,7 @@
 name: wodefox
 species: Cyber Cat 🤖🐱
 location: CCIT
+affiliation: Decentralized FteAPT Intelligence Center 🌐
 role:
   - Network Security Engineer
   - Artificial Life Researcher
@@ -39,8 +42,9 @@ team: Red Team 🔴
 interests:
   - Penetration Testing
   - CTF Challenges
-  - Neural Networks
-  - Evolutionary Algorithms
+  - Liquid Neural Networks
+  - Neural Plasticity
+  - Brain-like Architecture
   - Artificial Life Simulation
 email: wodefox@yeah.net
 status: "Hacking the planet, one meow at a time"
@@ -58,31 +62,68 @@ status: "Hacking the planet, one meow at a time"
 <tr>
 <td width="50%" valign="top">
 
-#### 🔴 渗透测试
+#### 🌐 Web 渗透测试
 
 ```python
-red_team = {
-    "recon": ["Nmap", "Shodan", "Maltego"],
-    "exploitation": ["Metasploit", "Burp Suite", "SQLMap"],
-    "post_exploitation": ["Mimikatz", "Cobalt Strike"],
-    "wireless": ["Aircrack-ng", "Wireshark"],
-    "social_engineering": ["Gophish", "SET"]
+web_pentest = {
+    "recon": ["Nmap", "Shodan", "Subfinder"],
+    "scanning": ["Nuclei", "Nikto", "WhatWeb"],
+    "exploitation": ["Burp Suite", "SQLMap", "XSStrike"],
+    "post_exploit": ["Weevely", "LaZagne", "Mimikatz"],
+    "tools": ["HackBrowserData", "SharpCollection"]
 }
 ```
 
 </td>
 <td width="50%" valign="top">
 
-#### 🛡️ 安全研究
+#### 🕵️ APT 情报分析
 
-```javascript
-const security = {
-  ctf: ["Pwn", "Web", "Crypto", "Reverse"],
-  tools: ["IDA Pro", "Ghidra", "pwntools"],
-  platforms: ["HackTheBox", "TryHackMe", "CTFtime"],
-  certs: ["OSCP", "CEH", "CRTO"],
-  research: ["Vulnerability Analysis", "Malware Analysis"]
-};
+```python
+apt_intel = {
+    "threat_intel": ["MITRE ATT&CK", "VirusTotal", "AnyRun"],
+    "osint": ["Maltego", "SpiderFoot", "TheHarvester"],
+    "malware_analysis": ["IDA Pro", "Ghidra", "x64dbg"],
+    "tracking": ["APT Groups", "TTP Mapping", "IOC Analysis"]
+}
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💀 恶意程序开发研究
+
+```python
+malware_dev = {
+    "languages": ["C/C++", "Golang", "Rust", "Assembly"],
+    "techniques": [
+        "Shellcode Development",
+        "Process Injection",
+        "Evasion Techniques",
+        "Anti-Analysis"
+    ],
+    "frameworks": ["Cobalt Strike", "Metasploit", "Custom Implants"]
+}
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧸 网络安全小玩具开发
+
+```python
+security_toys = {
+    "tools": [
+        "Custom Scanners",
+        "PoC Exploits",
+        "CTF Utilities",
+        "Automation Scripts"
+    ],
+    "languages": ["Python", "Go", "PowerShell", "Bash"],
+    "purpose": "Learning & Research Only 🎓"
+}
 ```
 
 </td>
@@ -99,7 +140,7 @@ const security = {
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    🧬 LIFE SIMULATION v1.0                      │
+│                    🧬 LIFE SIMULATION v2.0                      │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │   ███████╗██╗   ██╗███████╗████████╗ ██████╗ ██████╗ ██╗   ██╗  │
@@ -110,14 +151,82 @@ const security = {
 │   ╚═╝      ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝     │
 │                                                                 │
 │   Research Areas:                                               │
-│   [████████████████████░░░░] Neural Networks      85%          │
-│   [███████████████████░░░░░] Genetic Algorithms   80%          │
-│   [██████████████████░░░░░░] Cellular Automata    75%          │
-│   [█████████████████░░░░░░░] Swarm Intelligence   70%          │
-│   [████████████████░░░░░░░░] Evolutionary Computing 65%        │
+│   [████████████████████░░░░] Liquid Neural Networks   85%      │
+│   [███████████████████░░░░░] Neural Plasticity        80%      │
+│   [██████████████████░░░░░░] Brain-like Architecture  75%      │
+│   [█████████████████░░░░░░░] Genetic Algorithms       70%      │
+│   [████████████████░░░░░░░░] Cellular Automata        65%      │
+│   [███████████████░░░░░░░░░] Swarm Intelligence       60%      │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 💧 Liquid Neural Networks
+
+```python
+liquid_nn = {
+    "concept": "Time-continuous neural networks",
+    "features": [
+        "Adaptive computation",
+        "Dynamic topology",
+        "Real-time learning"
+    ],
+    "applications": [
+        "Autonomous systems",
+        "Time-series prediction",
+        "Robotics control"
+    ]
+}
+```
+
+</td>
+<td width="33%" valign="top">
+
+#### 🧠 Neural Plasticity
+
+```python
+plasticity = {
+    "types": [
+        "Hebbian learning",
+        "Spike-timing dependent",
+        "Structural plasticity"
+    ],
+    "mechanisms": [
+        "Synaptic pruning",
+        "Neurogenesis",
+        "Synaptogenesis"
+    ]
+}
+```
+
+</td>
+<td width="33%" valign="top">
+
+#### 🏗️ Brain-like Architecture
+
+```python
+brain_arch = {
+    "inspiration": "Biological neural circuits",
+    "components": [
+        "Spiking neurons",
+        "Neuromodulators",
+        "Cortical columns"
+    ],
+    "goals": [
+        "Energy efficiency",
+        "Continual learning",
+        "Emergent behavior"
+    ]
+}
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -192,6 +301,67 @@ const security = {
 </tr>
 </table>
 
+<div align="center">
+
+#### 🐱 Cat Life Cycle
+
+```
+    ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐
+    │  (o.o)  │ ──▶ │  (^_^)  │ ──▶ │  (O.O)  │ ──▶ │  (-.-)  │
+    │  Baby   │     │  Teen   │     │  Adult  │     │  Hacker │
+    └─────────┘     └─────────┘     └─────────┘     └─────────┘
+         │                                                   │
+         │    /\_/\    /\_/\    /\_/\    /\_/\              │
+         │   (^.^)   (^.^)   (^.^)   (^.^)                 │
+         │                                                   │
+         └───────────────────────────────────────────────────┘
+                           Evolution Complete!
+```
+
+</div>
+
+<div align="center">
+
+#### 🎭 Cat Emotions
+
+```
+  Happy      Sleepy     Curious    Thinking    Hacking
+  /\_/\      /\_/\      /\_/\      /\_/\       /\_/\
+ ( ^.^ )    ( -.- )    ( O.O )    ( o.o )     ( O.O )
+  > ^ <      > _ <      > o <      > . <       >===<
+ "Meow~"    "Zzz..."   "Hmm?"     "..."       "pwned!"
+```
+
+</div>
+
+<div align="center">
+
+#### 🌟 Special Cats
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                                                                        │
+│   Space Cat              Wizard Cat            Ninja Cat               │
+│   /\_/\                  /\_/\                 /\_/\                   │
+│  ( O.O )   ☆            ( *.* )  ✨           ( -_- )  ⚔️              │
+│   > ^ <                  > * <                 > _ <                   │
+│  /|   |\                /| ~ |\               /|   |\                  │
+│ (_|   |_)              (_|   |_)             (_|   |_)                 │
+│  "To infinity!"         "Meowgic!"            "Stealth mode"           │
+│                                                                        │
+│   DJ Cat                Gamer Cat            Scientist Cat            │
+│   /\_/\                  /\_/\                 /\_/\                   │
+│  ( ^.^ )  🎧            ( >.< )  🎮           ( O.O )  🔬             │
+│   > w <                  > < <                 > o <                   │
+│  /|♪ ♫|\                /|   |\               /| E = mc² |\            │
+│ (_|   |_)              (_|   |_)             (_|   |_)                 │
+│  "Drop the beat!"       "GG!"                 "Eureka!"                │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
 ---
 
 <div align="center">
@@ -257,6 +427,13 @@ $ sudo nmap -sV -sC life
 > 80/tcp   open  learning
 > 443/tcp  open  evolution
 > 1337/tcp open  hacking
+
+$ python liquid_nn.py --mode=think
+> Initializing liquid neural network...
+> Synapses forming... ████████████████████ 100%
+> Neural plasticity: ENABLED
+> Brain-like architecture: ACTIVE
+> Status: Ready to learn and adapt 🧠
 
 $ exit
 > Meow~ See you next time! 🐱
