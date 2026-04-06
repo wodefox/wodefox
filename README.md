@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./cat.jpg" width="100" alt="Logo" />
+<img src="./CrossC2.png" width="100" alt="Logo" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=560&lines=%2F%5C_%2F%5C+wodefox+%2F%5C_%2F%5C" alt="Typing SVG" />
 
@@ -197,9 +197,7 @@ brain_arch = {
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=wodefox&show_icons=true&theme=omni&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=9370DB&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wodefox&layout=compact&theme=omni&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img src="./wei.jpg" width="300" alt="赞赏" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodefox&theme=omni&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currLabel=9370DB" alt="GitHub Streak" />
 
