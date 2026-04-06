@@ -1,26 +1,103 @@
-<h1 align="center">Hi 👋, I'm wodefox</h1>
-<h3 align="center">A passionate developer from Earth</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wodefox&label=Profile%20views&color=0e75b6&style=flat" alt="wodefox" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Hello%2C+I'm+wodefox+%F0%9F%A6%8A" alt="Typing SVG" />
 
-- 🔭 I'm currently working on **Web Development**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;Cloud+Native+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
-- 🌱 I'm currently learning **Cloud Native & DevOps**
+<img src="https://komarev.com/ghpvc/?username=wodefox&style=for-the-badge&color=blueviolet" alt="Profile views" />
 
-- 👯 I'm looking to collaborate on **Open Source Projects**
+</div>
 
-- 📫 How to reach me **wodefox@github.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/wodefox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="wodefox" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git/git-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=&fontSize=0" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wodefox&show_icons=true&locale=en&layout=compact" alt="wodefox" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wodefox&show_icons=true&locale=en" alt="wodefox" /></p>
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 关于我
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wodefox&" alt="wodefox" /></p>
+```yaml
+name: wodefox
+location: Earth 🌍
+current_focus: Web Development
+learning: Cloud Native & DevOps
+collaborating: Open Source Projects
+email: wodefox@github.com
+```
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wodefox&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117" width="300" />
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3bafbf5tdwy&rid=giphy.gif" width="25"> 技术栈
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🖥️ 前端
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,vue,tailwind,sass&perline=3" />
+
+</td>
+<td valign="top" width="50%">
+
+#### ⚙️ 后端 & 数据库
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,mysql,mongodb,redis,docker&perline=3" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### ☁️ DevOps & 云原生
+
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,linux,nginx,jenkins&perline=3" />
+
+</td>
+<td valign="top" width="50%">
+
+#### 🛠️ 工具
+
+<img src="https://skillicons.dev/icons?i=git,vscode,idea,postman,figma,bash&perline=3" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 📊 GitHub 统计
+
+<img src="https://github-readme-stats.vercel.app/api?username=wodefox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wodefox&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currLabel=58A6FF" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+### 🤝 联系我
+
+<a href="https://github.com/wodefox">
+<img src="https://img.shields.io/badge/GitHub-wodefox-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
+
+</div>
+
+<div align="center">
+
+⭐️ From [wodefox](https://github.com/wodefox)
+
+</div>
