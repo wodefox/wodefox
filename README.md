@@ -1,66 +1,137 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Hello%2C+I'm+wodefox+%F0%9F%A6%8A" alt="Typing SVG" />
+```
+██╗    ██╗ ██████╗ ██████╗ ██████╗ ███████╗██████╗ 
+██║    ██║██╔═══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗
+██║ █╗ ██║██║   ██║██████╔╝██████╔╝█████╗  ██████╔╝
+██║███╗██║██║   ██║██╔══██╗██╔══██╗██╔══╝  ██╔══██╗
+╚███╔███╔╝╚██████╔╝██║  ██║██║  ██║███████╗██║  ██║
+ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;Cloud+Native+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=wodefox&style=for-the-badge&color=blueviolet" alt="Profile views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=500&lines=%3E+Initializing+wodefox...;%3E+Loading+skills...;%3E+Ready+to+code!" alt="Typing SVG" />
 
 </div>
 
 ---
 
+```bash
+$ whoami
+> wodefox
+
+$ cat /etc/motd
+> A passionate developer who turns ☕ into </code>
+
+$ uptime
+> Coding since birth, debugging forever
+
+$ finger wodefox
+Login: wodefox    Name: Developer
+Directory: ~/projects   Shell: /bin/zsh
+On since Mon Jan 1 00:00:00 (UTC) on tty1
+Project: Web Development
+Learning: Cloud Native & DevOps
+Status: Open for collaboration
+Mail: wodefox@github.com
+```
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=&fontSize=0" />
+### 🖥️ TERMINAL OUTPUT
 
 </div>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 关于我
-
-```yaml
-name: wodefox
-location: Earth 🌍
-current_focus: Web Development
-learning: Cloud Native & DevOps
-collaborating: Open Source Projects
-email: wodefox@github.com
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                      SKILL MATRIX v2.0                         │
+├─────────────────────────────────────────────────────────────────┤
+│  [████████████████████░░░░] TypeScript    85%                  │
+│  [███████████████████░░░░░] JavaScript    80%                  │
+│  [██████████████████░░░░░░] Python        75%                  │
+│  [█████████████████░░░░░░░] React         72%                  │
+│  [████████████████░░░░░░░░] Vue.js        68%                  │
+│  [███████████████░░░░░░░░░] Node.js       65%                  │
+│  [██████████████░░░░░░░░░░] Docker        60%                  │
+│  [█████████████░░░░░░░░░░░] Kubernetes    55%                  │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wodefox&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117" width="300" />
+---
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3bafbf5tdwy&rid=giphy.gif" width="25"> 技术栈
+<div align="center">
+
+### ⌨️ TECH STACK
+
+</div>
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-#### 🖥️ 前端
+#### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,vue,tailwind,sass&perline=3" />
+```javascript
+const frontend = {
+  languages: ['TypeScript', 'JavaScript'],
+  frameworks: ['React', 'Vue', 'Next.js'],
+  styling: ['Tailwind', 'SCSS', 'Styled-Components'],
+  state: ['Redux', 'Zustand', 'Pinia']
+};
+```
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-#### ⚙️ 后端 & 数据库
+#### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,mysql,mongodb,redis,docker&perline=3" />
+```python
+backend = {
+    "languages": ["Node.js", "Python"],
+    "frameworks": ["Express", "FastAPI", "NestJS"],
+    "databases": ["PostgreSQL", "MongoDB", "Redis"],
+    "orm": ["Prisma", "SQLAlchemy", "Mongoose"]
+}
+```
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-#### ☁️ DevOps & 云原生
+#### ☁️ DevOps
 
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,linux,nginx,jenkins&perline=3" />
+```yaml
+devops:
+  containerization:
+    - Docker
+    - Kubernetes
+  ci_cd:
+    - GitHub Actions
+    - Jenkins
+  cloud:
+    - AWS
+    - Vercel
+  monitoring:
+    - Prometheus
+    - Grafana
+```
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-#### 🛠️ 工具
+#### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,vscode,idea,postman,figma,bash&perline=3" />
+```json
+{
+  "editor": "VS Code & JetBrains IDEs",
+  "version_control": "Git & GitHub",
+  "terminal": "Oh My Zsh + Starship",
+  "api_testing": "Postman & Insomnia",
+  "design": "Figma"
+}
+```
 
 </td>
 </tr>
@@ -70,21 +141,13 @@ email: wodefox@github.com
 
 <div align="center">
 
-### 📊 GitHub 统计
+### 📊 LIVE STATISTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=wodefox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=wodefox&show_icons=true&theme=dark_lover&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&include_all_commits=true&count_private=true&line_height=28" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wodefox&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currLabel=58A6FF" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wodefox&layout=compact&theme=dark_lover&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
 
-</div>
-
-<div align="center">
-
-### 🤝 联系我
-
-<a href="https://github.com/wodefox">
-<img src="https://img.shields.io/badge/GitHub-wodefox-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wodefox&theme=dark-lover&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B6B&currLabel=00FF41" alt="GitHub Streak" />
 
 </div>
 
@@ -92,12 +155,69 @@ email: wodefox@github.com
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
+### 📈 CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wodefox&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
+---
+
 <div align="center">
 
-⭐️ From [wodefox](https://github.com/wodefox)
+### 💻 FUN FACTS
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  > 99 little bugs in the code                            │
+│  > 99 little bugs                                        │
+│  > Take one down, patch it around                        │
+│  > 127 little bugs in the code                           │
+│                                                          │
+│  > There are only 10 types of people:                    │
+│    those who understand binary and those who don't       │
+│                                                          │
+│  > A SQL query walks into a bar, walks up to two tables  │
+│    and asks... "Can I join you?"                         │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 📡 SIGNALS
+
+<a href="https://github.com/wodefox">
+<img src="https://img.shields.io/badge/GitHub-wodefox-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Shell-Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Zsh"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+    ┌───────────────────────────────────────┐
+    │                                       │
+    │   Thanks for visiting my profile!     │
+    │   Feel free to explore my repos       │
+    │   ⭐ Star if you find something cool   │
+    │                                       │
+    │   > exit 0                            │
+    │                                       │
+    └───────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer" />
 
 </div>
