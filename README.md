@@ -197,7 +197,7 @@ brain_arch = {
 
 ### 📊 Stats
 
-<img src="./wei.jpg" width="300" alt="赞赏" />
+<img src="./wei.png" width="300" alt="赞赏" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wodefox&theme=omni&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currLabel=9370DB" alt="GitHub Streak" />
 
