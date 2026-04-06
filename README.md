@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gloxec/CrossC2/cs4.1/media/16292585578533/CrossC2_logo.png" width="120" alt="Logo" />
+<img src="./CrossC2_logo.png" width="120" alt="Logo" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%90%B1+Hello%2C+I'm+wodefox+%F0%9F%90%B1" alt="Typing SVG" />
 
